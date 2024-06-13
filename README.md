@@ -10,7 +10,9 @@ A Food Delivery Android App with various restaurants, multiple menus. Users can 
 - Payment Integration: Secure payment options through popular gateways.
 
 # Screenshots
-![1](https://github.com/JayK0604/Runner-Food/assets/115945871/98dd2280-a3df-423a-a3b9-63bc38485b95)
+
+<img src="https://github.com/JayK0604/Runner-Food/assets/115945871/98dd2280-a3df-423a-a3b9-63bc38485b95" width="250" height="250">
+![1]()
 ![2](https://github.com/JayK0604/Runner-Food/assets/115945871/ecdf656c-bc20-4eb9-8b48-f9775ab1cc13)
 ![3](https://github.com/JayK0604/Runner-Food/assets/115945871/0b1ec7a8-ce6e-4813-9031-5ec1e4c6db4f)
 ![4](https://github.com/JayK0604/Runner-Food/assets/115945871/4a84eda1-93e2-4e5b-9160-49136865ce04)
