@@ -11,7 +11,8 @@ A Food Delivery Android App with various restaurants, multiple menus. Users can 
 
 # Screenshots
 
-<img src="https://github.com/JayK0604/Runner-Food/assets/115945871/98dd2280-a3df-423a-a3b9-63bc38485b95" width="200" height="400">
+
+<img src="https://github.com/JayK0604/Runner-Food/assets/115945871/98dd2280-a3df-423a-a3b9-63bc38485b95"  width="200" height="400">
 <img src="https://github.com/JayK0604/Runner-Food/assets/115945871/ecdf656c-bc20-4eb9-8b48-f9775ab1cc13" width="200" height="400">
 <img src="https://github.com/JayK0604/Runner-Food/assets/115945871/ecdf656c-bc20-4eb9-8b48-f9775ab1cc13" width="200" height="400">
 <img src="https://github.com/JayK0604/Runner-Food/assets/115945871/0b1ec7a8-ce6e-4813-9031-5ec1e4c6db4f" width="200" height="400">
